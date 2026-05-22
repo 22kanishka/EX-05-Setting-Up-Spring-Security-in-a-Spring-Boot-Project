@@ -62,8 +62,6 @@ Secure endpoints will prompt for username and password.
 	</properties>
 	<dependencies>
 
-
-
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-web</artifactId>
@@ -309,9 +307,9 @@ public class LoginRequest {
 
 ## Output
 
-![alt text](<Screenshot From 2026-05-22 13-46-29.png>)
-
 ![alt text](<Screenshot From 2026-05-22 13-44-54.png>)
+
+![alt text](<Screenshot From 2026-05-22 13-46-29.png>)
 
 ## Result
 
